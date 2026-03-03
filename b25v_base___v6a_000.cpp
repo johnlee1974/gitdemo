@@ -62,6 +62,7 @@ ULONG v6a00p(void){
 register ULONG ulwk0;
 register ULONG ulwk1,ulwk2;
 register LONG lwk0;
+ULONG wlwk3;
 //*****@st_vacccd64~vtopcmd
 ulwk0 = v10h;
 if (!v10hx){
