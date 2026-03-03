@@ -60,7 +60,7 @@ ULONG v6f00p(void){
 //register ULONG ulwk0,ulwk1,ulwk2,ulwk3;	//<00*><10.02.05>Iw ulwk2,3追加	//<00*><10.02.12>Iw ulwk1追加
 register ULONG ulwk0,ulwk1,ulwk2,ulwk3,ulwk4;			//<V20>ulwk2,3削除 2011.08.03K.Sakai //<035> <D038>
 register LONG  lwk0,lwk1,lwk5;	//<00*><09.12.21>Iw lwk1追加
-double udwk0,udwk1,udwk2;
+double udwk0,udwk1,udwk2,udwk3;
 int a;      //手動ループ変数		//<V20>削除 2011.08.03K.Sakai  //<035> <D038>
 ULONG	*p,*q;						//<035> <D038>
 
